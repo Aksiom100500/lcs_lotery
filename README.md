@@ -1,2 +1,6 @@
 # lcs_lotery
-type ruby main.rb to run
+
+- ruby 2.7.1
+
+type to run
+> ruby main.rb
