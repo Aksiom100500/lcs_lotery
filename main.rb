@@ -45,10 +45,6 @@ class Main
 
   def data_output_dalog
     puts '------------------Winners successfully founded------------------'
-    handle_output
-  end
-
-  def handle_output
     puts 'push enter to create file (or type \'c\' for only console output):'
     unless gets.chomp == 'c'
       OutputFile.new(@result)
