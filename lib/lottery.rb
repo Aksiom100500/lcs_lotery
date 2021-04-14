@@ -14,7 +14,7 @@ class Lottery
   end
 
   def result
-    analize_data.map{ |el| el.join(',') }.join("\n")
+    analize_data.map { |el| el.join(',') }.join("\n")
   end
 
   private

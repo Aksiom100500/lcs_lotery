@@ -23,7 +23,7 @@ class Main
     puts e
     puts (e.backtrace or []).join("\n")
     puts '---------------------------Try again----------------------------'
-    # run_lottery
+    run_lottery
   end
 
   def data_input_dialog
