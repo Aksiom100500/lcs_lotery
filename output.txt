@@ -1,0 +1,7 @@
+Alison,Alice,Austria,9
+Bert,Bertram,Belgium,7
+Carlson,Cynthia,China,1
+Carlson,Cynthia,Chile,5
+Daneson,Dan Dilbert,Denmark,5
+Dilbert Daneson,Dan,Denmark,1
+Eggbert,Eric,Estonia,0
